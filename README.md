@@ -4,6 +4,13 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d0M3BnbG9pN2UweWw3NHo3NTBxc3gwdHN5azk5OG91MjVkY3l4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
 
+🤖 AI Engineer passionate about building intelligent systems and solving real-world problems.
+
+🎓 Studied Information Technology at Can Tho University, Viet Nam.
+
+🚀 Sharing my AI projects and findings on GitHub.
+
+🧠 Currently diving deep into Large Language Models (LLMs)!
 ###
 
 <div align="left">
@@ -22,7 +29,7 @@
 </div>
 
 ###
-
+Connect with me:
 <div align="left">
   <a href="https://www.youtube.com/@MemoriesofTLX">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
